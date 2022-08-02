@@ -1,0 +1,6 @@
+descartes
+geopandas
+shapely
+scipy
+pylab
+platypus-opt
